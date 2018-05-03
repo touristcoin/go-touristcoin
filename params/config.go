@@ -77,9 +77,9 @@ var (
 		ByzantiumBlock:          big.NewInt(20),
 		TouristCoinBlock:           big.NewInt(0),
 		TouristCoinMinerReward:     TOUMinerReward,
-		TouristCoinTreasuryAddress: common.HexToAddress("0x2df2ebc44fd429ad69ce26198983b8ce933f408e"),
+		TouristCoinTreasuryAddress: common.HexToAddress("0xbbe8fbeb971d3bc746d2336d1445780b927f0499"),
 		TouristCoinTreasuryReward:  TOUTreasuryReward,
-		TouristCoinStakeAddress:    common.HexToAddress("0x4dbeee871c2fc654fef28c2fea2e309173306af9"),
+		TouristCoinStakeAddress:    common.HexToAddress("0xe303d661b7814368e0c1372a2619c1a2bea025c3"),
 		TouristCoinStakeReward:     TOUStakeReward,
 
 		Ethash: new(EthashConfig),
@@ -97,9 +97,9 @@ var (
 		ByzantiumBlock:          big.NewInt(20),
 		TouristCoinBlock:           big.NewInt(0),
 		TouristCoinMinerReward:     TOUMinerReward,
-		TouristCoinTreasuryAddress: common.HexToAddress("0x2df2ebc44fd429ad69ce26198983b8ce933f408e"),
+		TouristCoinTreasuryAddress: common.HexToAddress("0xbbe8fbeb971d3bc746d2336d1445780b927f0499"),
 		TouristCoinTreasuryReward:  TOUTreasuryReward,
-		TouristCoinStakeAddress:    common.HexToAddress("0x4dbeee871c2fc654fef28c2fea2e309173306af9"),
+		TouristCoinStakeAddress:    common.HexToAddress("0xe303d661b7814368e0c1372a2619c1a2bea025c3"),
 		TouristCoinStakeReward:     TOUStakeReward,
 
 		Ethash: new(EthashConfig),
